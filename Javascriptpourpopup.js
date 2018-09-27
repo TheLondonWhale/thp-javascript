@@ -13,7 +13,7 @@
 
 	let resultat = confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please. Allez sur xxxvidsxxx ?") 
        	{ 
-        if (true) {window.location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'}
+        if (resultat = true) {window.location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'}
        	}
 
 
